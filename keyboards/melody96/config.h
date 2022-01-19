@@ -48,4 +48,10 @@
 #define RGBLIGHT_HUE_STEP 8
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
+/*my customisation options*/
+#define USB_POLLING_INTERVAL_MS 1
+#define QMK_KEYS_PER_SCAN 7
+#define FORCE_NKRO
+// #define DEBOUNCE 3
+
 #endif
